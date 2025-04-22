@@ -20,8 +20,7 @@ Ensure you have Python 3.x installed. No additional packages are required.
 Run the script using:
 
 ```sh
-python calculator.py
-
+python main.py
 ```
 
 Follow the prompts to perform calculations:
